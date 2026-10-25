@@ -1,0 +1,6 @@
+{
+  "name": "ROBOPIX Messenger",
+  "description": "ROBOPIX Client Messenger for importing client leads from Excel/CSV, generating personalized website development outreach pitches with AI, managing reviews and sending via WhatsApp or Email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
